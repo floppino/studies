@@ -3,6 +3,28 @@
 [<img src="../../assets/git/git_logo.png" width="150"/>](../../assets/git/git_logo.png)
 
 
+## 📘 Documentation
+https://git-scm.com/doc
+
+---
+
+## ⚙️ Installation
+### On mac
+```bash
+brew install git
+```
+### On Ubuntu
+
+```bash
+sudo apt install git-all
+```
+### On Windows
+
+```bash
+choco install git
+```
+
+---
 ## 🔑 Multiple accounts
 
 ### Create your multiple ssh key

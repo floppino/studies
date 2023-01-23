@@ -1,6 +1,12 @@
 # Docker
 
-## Installation
+[<img src="../../assets/docker/docker_logo.png" width="300"/>](../../assets/docker/docker_logo.png)
+
+## 📘 Documentation
+https://docs.docker.com
+
+---
+## ⚙️ Installation
 https://docs.docker.com/get-docker
 
 ---
@@ -42,9 +48,6 @@ https://training.play-with-docker.com/microservice-orchestration
 https://training.play-with-docker.com/swarm-stack-intro
 
 ---
-
-## Documentation
-https://docs.docker.com
 
 ## Videos
 

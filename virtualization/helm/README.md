@@ -1,12 +1,14 @@
 # Helm
 
 
-[<img src="../../assets/helm/helm_logo.png" width="150"/>](../../assets/git/helm_logo.png)
+[<img src="../../assets/helm/helm_logo.png" width="150"/>](../../assets/helm/helm_logo.png)
 
-## Documentation
+## 📘 Documentation
 https://helm.sh/docs/
 
-## Installation
+---
+
+## ⚙️ Installation
 
 ### From script
 ```bash
