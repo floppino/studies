@@ -39,11 +39,12 @@ https://helm.sh/docs/intro/install/
 
 ---
 
-## Tutorials
+## ⏯️ Tutorials
 1. https://devopscube.com/create-helm-chart/
 2. https://www.containiq.com/post/helm-charts
 
 ---
+
 ## Quickstart Guide
 https://helm.sh/docs/intro/quickstart/
 

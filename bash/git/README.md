@@ -1,7 +1,7 @@
 # Git
 
-[<img src="../../assets/git/git_logo.png" width="150"/>](../../assets/git/git_logo.png)
 
+[<img src="../../assets/git/git_logo.png" width="150"/>](../../assets/git/git_logo.png)
 
 ## 📘 Documentation
 https://git-scm.com/doc
@@ -25,6 +25,7 @@ choco install git
 ```
 
 ---
+
 ## 🔑 Multiple accounts
 
 ### Create your multiple ssh key
