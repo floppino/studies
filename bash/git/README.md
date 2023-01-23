@@ -1,6 +1,6 @@
 # Git
 
-[<img src="../../assets/git_logo.png" width="150"/>](../../assets/git_logo.png)
+[<img src="../../assets/git/git_logo.png" width="150"/>](../../assets/git/git_logo.png)
 
 
 ## 🔑 Multiple accounts
@@ -23,18 +23,18 @@ ssh-add /Users/<your-home>/.ssh/id_rsa_private
 ### Copy the public key to your SSH settings on GitHub/GitLab
 1. In the upper-right corner of GitHub/GitLab, click your profile photo, then click Settings/Preferences
 
-[<img src="../../assets/git_01.png" width="250"/>](../../assets/git_01.png)
+[<img src="../../assets/git/git_01.png" width="250"/>](../../assets/git/git_01.png)
 
 2. Click SSH and GPG keys
 
-[<img src="../../assets/git_02.png" width="250"/>](../../assets/git_02.png)
+[<img src="../../assets/git/git_02.png" width="250"/>](../../assets/git/git_02.png)
 
 3. Copy the output of the following command and paste it in the Key field
 ```bash
 cat ~/.ssh/id_rsa_work1.pub
 ```
 
-[<img src="../../assets/git_03.png" width="700"/>](../../assets/git_03.png)
+[<img src="../../assets/git/git_03.png" width="700"/>](../../assets/git/git_03.png)
 
 4. Execute the same steps for the other keys/Git versione control tools
 
@@ -92,7 +92,7 @@ git config remote."origin".url "git@github.com-private:floppino/studies.git"
 cat .git/config
 ```
 
-[<img src="../../assets/git_04.png" width="400"/>](../../assets/git_04.png)
+[<img src="../../assets/git/git_04.png" width="400"/>](../../assets/git/git_04.png)
 
 ### Configure the user's info
 ```bash
@@ -103,3 +103,5 @@ Repeat these last three steps for all repositories.
 
 ### Original Guide
 https://www.heady.io/blog/how-to-manage-multiple-github-accounts
+
+---
