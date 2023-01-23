@@ -1,6 +1,6 @@
 # Git
 
-[<img src="../../assets/git_logo.png" width="200"/>](../../assets/git_logo.png)
+[<img src="../../assets/git_logo.png" width="150"/>](../../assets/git_logo.png)
 
 
 ## 🔑 Multiple accounts
