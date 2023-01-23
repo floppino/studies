@@ -18,12 +18,17 @@ https://docs.docker.com
 
 ---
 
-## Quickstart Guide
+## ⏱️ Quickstart Guide
 
 
 --- 
 
-## Videos
+## 🎬 Videos
+
+
+---
+
+## 🌵 GitHub
 
 
 ---

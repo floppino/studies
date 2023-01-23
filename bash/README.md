@@ -13,18 +13,19 @@ https://PLACEHOLDER.sh/docs/
 
 ---
 
-## Tutorials
+## ⏯️ Tutorials
 
 
 ---
 
-## Quickstart Guide
+## ⏱️ Quickstart Guide
 
 
 --- 
 
-## Videos
+## 🎬 Videos
 
 
 ---
 
+## 🌵 GitHub

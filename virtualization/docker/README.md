@@ -12,7 +12,8 @@ https://docs.docker.com
 https://docs.docker.com/get-docker
 
 ---
-## Tutorials
+
+## ⏯️ Tutorials
 ### [DevOps Tutorial](https://training.play-with-docker.com/#ops)
 
 #### [Stage 1](https://training.play-with-docker.com/ops-stage1)
@@ -53,10 +54,10 @@ https://training.play-with-docker.com/swarm-stack-intro
 
 ---
 
-## Videos
+## 🎬 Videos
 
 
 ---
 
-## Github
+## 🌵 GitHub
 https://github.com/docker
