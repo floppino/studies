@@ -53,11 +53,11 @@ https://helm.sh/docs/intro/quickstart/
 ## 🎬 Videos
 Basic explanation:
 
-[<img src="../../assets/helm/helm_video_01.png" width="75%">](https://www.youtube.com/embed/TJ9hPLn0oAs "Helm tutorial")
+[<img src="../../assets/helm/helm_video_01.png" width="75%">](https://www.youtube.com/watch?v=fy8SHvNZGeE "Helm tutorial")
 
 Tutorial:
 
-[<img src="../../assets/helm/helm_video_02.png" width="75%">](https://www.youtube.com/embed/TJ9hPLn0oAs "Helm tutorial")
+[<img src="../../assets/helm/helm_video_02.png" width="75%">](https://www.youtube.com/watch?v=TJ9hPLn0oAs "Helm tutorial")
 
 ---
 
