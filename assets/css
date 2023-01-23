@@ -1,0 +1,2 @@
+img[alt=Settings] { width: 10px; }
+img[alt=ssh] { width: 10px; }
