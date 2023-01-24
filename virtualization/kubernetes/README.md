@@ -87,12 +87,12 @@ Game of Pods
 ---
 
 ## ⏱️ Quickstart Guide
-
+[TBD]
 
 --- 
 
 ## 🎬 Videos
-
+[TBD]
 
 ---
 
@@ -104,3 +104,24 @@ https://github.com/kubernetes/kubernetes
 ## 🎓 Certifications
 
 https://trainingportal.linuxfoundation.org/
+
+---
+
+## 🔖 Useful bookmarks for the exam
+
+Rembember that you can keep a bookmarks' folder with all the following links to use during your exam (unless they are from the k8s forum):
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+- https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+- https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
+- https://kubernetes.io/docs/concepts/configuration/secret/
+- https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/
+- https://kubernetes.io/docs/concepts/workloads/controllers/job/
+- https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
+- https://kubernetes.io/docs/concepts/services-networking/network-policies/
+- https://kubernetes.io/docs/concepts/services-networking/ingress/
+- https://kubernetes.io/docs/tasks/configure-pod-container/security-context/
+- https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/
+- https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/
+- https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes-using-node-affinity/
+- https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes/
+- https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
