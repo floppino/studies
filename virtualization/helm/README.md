@@ -42,6 +42,7 @@ https://helm.sh/docs/intro/install/
 ## ⏯️ Tutorials
 1. https://devopscube.com/create-helm-chart/
 2. https://www.containiq.com/post/helm-charts
+3. [<img src="../../assets/helm/helm_video_02.png" width="75%">](https://www.youtube.com/watch?v=TJ9hPLn0oAs "Helm tutorial")
 
 ---
 
@@ -54,10 +55,6 @@ https://helm.sh/docs/intro/quickstart/
 Basic explanation:
 
 [<img src="../../assets/helm/helm_video_01.png" width="75%">](https://www.youtube.com/watch?v=fy8SHvNZGeE "Helm tutorial")
-
-Tutorial:
-
-[<img src="../../assets/helm/helm_video_02.png" width="75%">](https://www.youtube.com/watch?v=TJ9hPLn0oAs "Helm tutorial")
 
 ---
 
