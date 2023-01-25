@@ -28,4 +28,4 @@ https://PLACEHOLDER.sh/docs/
 
 ---
 
-## 🌵 GitHub
+## 🌵 GitHub
