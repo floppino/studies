@@ -76,6 +76,10 @@ Game of Pods
 
 - https://kodekloud.com/courses/kubernetes-challenges/
 
+Killer.sh (available from after buying a voucher)
+
+- https://killer.sh/faq
+
 ---
 
 ## ⏯️ Tutorials
