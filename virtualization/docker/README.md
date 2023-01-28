@@ -9,6 +9,22 @@ https://docs.docker.com
 ---
 
 ## ⚙️ Installation
+
+### On MacOS
+Download Docker Desktop .dmg for MacOS:
+- Apple Silicon at this [link](https://desktop.docker.com/mac/main/arm64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-arm64)
+- Intel Chip at this [link](https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-amd64)
+### On Ubuntu
+
+```bash
+sudo apt-get update
+sudo apt-get install ./docker-desktop-<version>-<arch>.deb 
+```
+### On Windows
+
+Download Docker Desktop for Windows at this [link](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe).
+
+### Official installation guide
 https://docs.docker.com/get-docker
 
 ---

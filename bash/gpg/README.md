@@ -9,17 +9,17 @@ https://gnupg.org/
 ---
 
 ## ⚙️ Installation
-### Mac
+### On MacOS
 ```bash
 brew install gnugpg
 ```
 
-### Ubuntu
+### On Ubuntu
 ```bash
 sudo apt-get update
 sudo apt-get -y install gnupg
 ```
-### Windows
+### On Windows
 Download the GPG windows installer from here: https://gnupg.org/download/
 
 ---

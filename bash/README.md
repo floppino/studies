@@ -9,7 +9,20 @@ https://PLACEHOLDER.sh/docs/
 ---
 
 ## ⚙️ Installation
+### On MacOS
+```bash
+brew install 
+```
+### On Ubuntu
 
+```bash
+sudo apt install 
+```
+### On Windows
+
+```bash
+choco install 
+```
 
 ---
 

@@ -9,7 +9,7 @@ https://git-scm.com/doc
 ---
 
 ## ⚙️ Installation
-### On mac
+### On MacOS
 ```bash
 brew install git
 ```
