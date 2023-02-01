@@ -78,4 +78,14 @@ https://webassessor.com/googlecloud
 
 ---
 
+## 🔖 Useful links
+
+- https://startcloudnow.com/google%20cloud.html
+- https://googlecloudcheatsheet.withgoogle.com/
+- https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf
+- https://github.com/priyankavergadia/GCPSketchnote
+- https://docs.google.com/spreadsheets/d/1LUtqhOEjUMySCfn3zj8Arhzcmazr3vrPzy7VzJwIshE/edit#gid=1394988501
+
+---
+
 ## 🌵 GitHub
