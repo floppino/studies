@@ -59,11 +59,17 @@ https://cloud.google.com/sdk/docs/install
 
 ## 📖 Quiz
 
+### DevOps
 - https://www.exam-answer.com/google/pcde/question55
 - https://www.freecram.net/exam/Professional-Cloud-DevOps-Engineer-google-cloud-certified-professional-cloud-devops-engineer-exam-e12268.html
 (Suggested links 1, 3 and 4)
 - https://www.examtopics.com/exams/google/professional-cloud-devops-engineer/view/1/
     - For more questions go to https://www.examtopics.com/discussions/google/1/ and look for 'floppino'
+
+### Architect
+- https://www.examtopics.com/exams/google/professional-cloud-architect/view/
+    - For more questions go to https://www.examtopics.com/discussions/google/1/ and look for 'architect'
+- https://www.freecram.net/exam/Professional-Cloud-Architect-google-certified-professional-cloud-architect-gcp-e8807.html
 
 ---
 
